@@ -1,6 +1,13 @@
 ---
 ##title: "PA1_template"
 ##output: html_document
+
+---
+title: "title: "PA1_template""
+author: Gregg Abramovich
+date: March 22, 2005
+output: md_document
+---
 ---
 
 ##Code for reading in the dataset and/or processing the data
